@@ -116,15 +116,6 @@ A meaningful slice of my work lives in private repos. The reasons are deliberate
 
 ---
 
-## 📊 Live GitHub Analytics
-
-<p align="center">
-  <!-- GitHub-ın öz daxili aktivlik datasını çəkən tam stabil 3D qrafik -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vugarfamiloglu&theme=github-dark" width="100%" />
-</p>
-
----
-
 <p align="center">
   📫 <b>Open to interesting backend / distributed-systems work — reach me via GitHub or socials.</b>
 </p>
