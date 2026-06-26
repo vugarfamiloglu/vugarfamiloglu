@@ -119,8 +119,14 @@ A meaningful slice of my work lives in private repos. The reasons are deliberate
 ## 📊 Live GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vuqarfamiloglu&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuqarfamiloglu&layout=compact&theme=dark&langs_count=6" height="160em" />
+  <!-- GitHub-ın öz rəsmi töhfə matrisinin vizual qrafiki -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vugarfamiloglu&theme=github-dark-teal" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Alternativ və stabil dil qrafiki -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vugarfamiloglu&theme=github_dark" height="150em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vugarfamiloglu&theme=github_dark" height="150em" />
 </p>
 
 ---
