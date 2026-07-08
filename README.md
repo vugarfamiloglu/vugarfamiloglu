@@ -1,7 +1,5 @@
 <!-- BAŞLIQ BANNERİ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.sh/content?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=VUGAR%20FAMILOGLU&fontSize=42&animation=fadeIn&fontColor=58a6ff" width="100%" />
-</p>
+
 
 <!-- SOSİAL MEDIA VƏ ƏLAQƏ DÜYMƏLƏRİ -->
 <p align="center">
